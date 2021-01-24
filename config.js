@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Abbas Elmas',
     photo: '/photo.png',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'junk site of a tech savvy geek',
     contacts: {
       email: 'abbas1173@gmail.com',
       facebook: '',
